@@ -21,4 +21,6 @@ The Admin Panel is created on AdminLTE3.
 - Logout from Admin User.
 - Access frontend panel (Eg: localhost/property_listing/public/)
 - Filter Properties and click on property name to display details.
+- Login Page for both Admin and User is same.
+
 
